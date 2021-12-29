@@ -1,0 +1,20 @@
+Selenium class09Recap
+
+Selenium waits:
+1Whay to avoid Thread.sleep()??
+
+<buttom> that takes 5seconds toappear-->
+
+--thread.sleep(1000)
+--findElement statment
+
+Implicit Wait
+
+Implicit wait:
+
+will be applied to all the FindElement()
+we use these waits to "wait" and
+
+
+WEBTABLES
+Ty
